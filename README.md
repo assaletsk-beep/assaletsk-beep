@@ -72,6 +72,6 @@ Projet réalisé en équipe : développement d'un éditeur 3D interactif avec ge
 
 ✉️ tavasoli03@gmail.com
 
-🔗 www.linkedin.com/in/fatemeh-tavasoli
+🔗 www.linkedin.com/in/fatemeh-tavasoli-kejani
 
 🐙 github.com/assaletsk-beep
