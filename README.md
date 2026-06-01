@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Fatemeh Tavasoli
+# Fatemeh Tavasoli
 
 🎓 Étudiante en Licence Informatique à l'Université Claude Bernard Lyon 1 (entrée en L3 en septembre 2026)
 
@@ -52,10 +52,10 @@ Développement d'un jeu avec gestion de la logique, des événements et de l'aff
 ### Application Web & Base de données
 Conception d'une base de données relationnelle SQL et développement d'une application web suivant l'architecture MVC.
 
-### Scène 3D avec gKit
+### [Scène 3D avec gKit](https://github.com/assaletsk-beep/gkit-3d-scene)
 Création d'un environnement 3D avec textures, transformations et gestion des normales.
 
-### Éditeur 3D OpenGL
+### [Lanterne 3D](https://github.com/assaletsk-beep/3D-lantern)
 Projet réalisé en équipe : développement d'un éditeur 3D interactif avec gestion des objets et rendu de scène.
 
 ---
